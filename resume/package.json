@@ -13,7 +13,7 @@
     "css-loader": "^0.28.5",
     "end-webpack-plugin": "^1.0.0",
     "extract-text-webpack-plugin": "^3.0.0",
-    "gh-pages": "^1.0.0",
+    "gh-pages": "^5.0.0",
     "node-sass": "^4.5.3",
     "postcss-loader": "^2.0.6",
     "sass-loader": "^6.0.5",
